@@ -36,5 +36,3 @@ Olá, me chamo João e sou um programador obstinado de 18 anos amante de lógica
 <img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </div><br/>
 
-<img width="800px" height="400px" src="https://miro.medium.com/max/1400/0*_j0AeCoEfTGrVm3l.gif"/>
-
